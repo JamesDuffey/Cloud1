@@ -1,7 +1,7 @@
 # Cloud1
 Introduction to Cloud infrustructure using the Google Cloud Platform.
 
-> The hosted WordPress site will be hosted at http://34.120.72.170//. The site will only be up during evalutaion.
+> The WordPress site will be hosted at http://34.120.72.170//. The site will only be up during evalutaion.
 
 ## Requirements:
 - 2 instances have to be running at all times.
