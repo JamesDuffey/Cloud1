@@ -1,5 +1,5 @@
 # Cloud1
-Introduction to Cloud infrustructure using the Google Cloud Platform.
+Introduction to Cloud infrastructure using the Google Cloud Platform.
 
 > The WordPress site will be hosted at http://34.120.72.170//. The site will only be up during evalutaion.
 
