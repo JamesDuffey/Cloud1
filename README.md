@@ -66,7 +66,7 @@ Introduction to Cloud infrastructure using the Google Cloud Platform.
     3. Set Action on Match to allow.
     4. Set targets to all instances in network.
     5. Set Source Filter to IP Ranges.
-    6. Add `130.211.0.0./22` and `35.191.0.0/16` under Source IP ranges.
+    6. Add `130.211.0.0/22` and `35.191.0.0/16` under Source IP ranges.
     7. Select TCP and set the port to 80.
 6. Creating a Static External-IP
     1. Navigate to VPC networks > External IP addresses.
